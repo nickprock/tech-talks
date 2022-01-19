@@ -2,8 +2,7 @@
 
 Repo che contiene le slides di molti talk, pitch e seminari che ho tenuto negli ultimi anni.
 
-Repo which contains the slides of many talks, pitches and seminars that I have held in recent years.
-
+* [Hands-on Imbalanced Classification](https://github.com/nickprock/tech-talks/blob/main/slides/master_dataScience_imbalanced.pdf). 19-05-2021. Seminario per il Master di 2° Livello in Data Science dell'UniCal.
 * [Algoritmi non supervisionati per Time Series](https://github.com/nickprock/tech-talks/blob/main/slides/dlimeetupunsupervisedlearningts-201020173735.pdf). 20-10-2020. Meetup di [DeepLearningItalia](https://www.deeplearningitalia.com/) per *Codemotion Aperitech*.
 * [Intro alle CNN ed esperimenti con Google AIY](https://github.com/nickprock/tech-talks/blob/main/slides/DemocratizeAI_GDG.pdf). 20-07-2019. Codelab in collaborazione con Google Developer Group Cosenza.
 * [Introduzione a Sparklyr](https://github.com/nickprock/tech-talks/blob/main/slides/sparklyr-190528131209.pdf). 28-05-2019. Seminario per gli studenti del corso *Big Data* del CdL in Informatica.
