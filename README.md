@@ -2,7 +2,7 @@
 
 Repo che contiene le slides di molti talk, pitch e seminari che ho tenuto negli ultimi anni.
 
-* [Who are the top influncers and what characterizes them?](https://github.com/nickprock/tech-talks/blob/main/slides/Who%20are%20the%20top%20influencers%20and%20what%20characterizes%20them%20.pdf). 19-04-2022. Meetup di [GraphRM](https://www.meetup.com/it-IT/GraphRM/) per *Codemotion Aperitech*.
+* [Who are the top influncers and what characterizes them?](https://github.com/nickprock/tech-talks/blob/main/slides/influencers.pdf). 19-04-2022. Meetup di [GraphRM](https://www.meetup.com/it-IT/GraphRM/) per *Codemotion Aperitech*.
 * [How people talk about health?](https://github.com/nickprock/tech-talks/blob/main/slides/HOW%20PEOPLE%20TALK%20ABOUT%20HEALTH%20.pdf). 25-01-2022. Meetup di *Democratize A.I.*
 * [Hands-on Imbalanced Classification](https://github.com/nickprock/tech-talks/blob/main/slides/master_dataScience_imbalanced.pdf). 19-05-2021. Seminario per il Master di 2° Livello in Data Science dell'UniCal.
 * [Algoritmi non supervisionati per Time Series](https://github.com/nickprock/tech-talks/blob/main/slides/dlimeetupunsupervisedlearningts-201020173735.pdf). 20-10-2020. Meetup di [DeepLearningItalia](https://www.deeplearningitalia.com/) per *Codemotion Aperitech*.
