@@ -2,7 +2,7 @@
 
 Repo che contiene le slides di molti talk, pitch e seminari che ho tenuto negli ultimi anni.
 
-* * [Gentle Introduction to XAI](https://github.com/nickprock/tech-talks/blob/main/slides/MasterDataScience_2022_XAI.pdf). 21-05-2022. Seminario per il Master di 2° Livello in Data Science dell'UniCal.
+* [Gentle Introduction to XAI](https://github.com/nickprock/tech-talks/blob/main/slides/MasterDataScience_2022_XAI.pdf). 21-05-2022. Seminario per il Master di 2° Livello in Data Science dell'UniCal.
 * [Who are the top influncers and what characterizes them?](https://github.com/nickprock/tech-talks/blob/main/slides/influencers.pdf). 19-04-2022. Meetup di [GraphRM](https://www.meetup.com/it-IT/GraphRM/) per *Codemotion Aperitech*.
 * [How people talk about health?](https://github.com/nickprock/tech-talks/blob/main/slides/HOW%20PEOPLE%20TALK%20ABOUT%20HEALTH%20.pdf). 25-01-2022. Meetup di *Democratize A.I.*
 * [Hands-on Imbalanced Classification](https://github.com/nickprock/tech-talks/blob/main/slides/master_dataScience_imbalanced.pdf). 19-05-2021. Seminario per il Master di 2° Livello in Data Science dell'UniCal.
