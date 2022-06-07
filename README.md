@@ -2,7 +2,7 @@
 
 Repo che contiene le slides di molti talk, pitch e seminari che ho tenuto negli ultimi anni.
 
-* [Seek Answers on Oncology with Machine Learning](https://github.com/nickprock/tech-talks/blob/main/slides/pycon22.pdf). 04-06-2022. Talk a PyCon Italia 11.
+* [Seek Answers on Oncology with Machine Learning](https://github.com/nickprock/tech-talks/blob/main/slides/pycon22.pdf). 04-06-2022. Talk a [PyCon Italia](https://pycon.it/en) 11.
 * [Gentle Introduction to XAI](https://github.com/nickprock/tech-talks/blob/main/slides/MasterDataScience_2022_XAI.pdf). 21-05-2022. Seminario per il Master di 2° Livello in Data Science dell'UniCal.
 * [Who are the top influncers and what characterizes them?](https://github.com/nickprock/tech-talks/blob/main/slides/influencers.pdf). 19-04-2022. Meetup di [GraphRM](https://www.meetup.com/it-IT/GraphRM/) per *Codemotion Aperitech*.
 * [How people talk about health?](https://github.com/nickprock/tech-talks/blob/main/slides/HOW%20PEOPLE%20TALK%20ABOUT%20HEALTH%20.pdf). 25-01-2022. Meetup di *Democratize A.I.*
