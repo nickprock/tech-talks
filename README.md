@@ -2,6 +2,7 @@
 
 Repo che contiene le slides di molti talk, pitch e seminari che ho tenuto negli ultimi anni.
 
+* [Deploy Hugging Face Transformers on AWS in just a few lines of code](https://github.com/nickprock/tech-talks/blob/main/slides/huggingfaceXaws.pdf). 30-05-2023. Talk per AWS User Group Calabria.
 * [Transformers: a deep learning revolution](https://github.com/nickprock/tech-talks/blob/main/slides/HW_UniSA_AppChallenge-MachineLearning.pdf).13-12-2022. Talk per App Challenge dell'Università di Salerno.
 * [Seek Answers on Oncology with Machine Learning](https://github.com/nickprock/tech-talks/blob/main/slides/pycon22.pdf). 04-06-2022. Talk a [PyCon Italia](https://pycon.it/en) 11. [video](https://www.youtube.com/watch?v=zZyfQ4Pc-ek)
 * [Gentle Introduction to XAI](https://github.com/nickprock/tech-talks/blob/main/slides/MasterDataScience_2022_XAI.pdf). 21-05-2022. Seminario per il Master di 2° Livello in Data Science dell'UniCal.
