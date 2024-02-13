@@ -2,6 +2,8 @@
 
 Repo che contiene le slides di molti talk, pitch e seminari che ho tenuto negli ultimi anni.
 
+* [A Production-Ready AI Assistant Framework: The Cheshire Cat!](https://github.com/nickprock/tech-talks/blob/main/slides/Cheshire%20Cat%20AI%20-%20TSC.pptx-1.pdf). 08-02-2024. Talk per Ticino Software Craft. [video](https://www.youtube.com/watch?v=K42kW42ukgw)
+* [Cheshire Cat AI a Production Ready AI Assistant Framework](https://github.com/nickprock/tech-talks/blob/main/slides/Cheshire%20Cat%20AI%20-%20Pi%20School.pptx.pdf). 24-01-2024. Talk per Pi School. [video](https://www.youtube.com/watch?v=OTB74ZH4eKU)
 * [Deploy Hugging Face Transformers on AWS in just a few lines of code](https://github.com/nickprock/tech-talks/blob/main/slides/huggingfaceXaws.pdf). 30-05-2023. Talk per AWS User Group Calabria.
 * [Transformers: a deep learning revolution](https://github.com/nickprock/tech-talks/blob/main/slides/HW_UniSA_AppChallenge-MachineLearning.pdf).13-12-2022. Talk per App Challenge dell'Università di Salerno.
 * [Seek Answers on Oncology with Machine Learning](https://github.com/nickprock/tech-talks/blob/main/slides/pycon22.pdf). 04-06-2022. Talk a [PyCon Italia](https://pycon.it/en) 11. [video](https://www.youtube.com/watch?v=zZyfQ4Pc-ek)
