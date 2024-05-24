@@ -2,6 +2,7 @@
 
 Repo che contiene le slides di molti talk, pitch e seminari che ho tenuto negli ultimi anni.
 
+* [Don't get Lost in Vector Space](https://github.com/nickprock/tech-talks/blob/main/slides/pycon24_DGLIVS.pdf). 25/05/2024. Talk a [PyCon Italia](https://pycon.it/en) 2024.
 * [Students meet the Cheshire Cat](https://github.com/nickprock/tech-talks/blob/main/slides/Cheshire%20Cat%20AI%20-%20UniCZ.pdf). 09-05-2024. Università Magna Grecia Catanzaro.
 * [A Production-Ready AI Assistant Framework: The Cheshire Cat!](https://github.com/nickprock/tech-talks/blob/main/slides/Cheshire%20Cat%20AI%20-%20TSC.pptx-1.pdf). 08-02-2024. Talk per Ticino Software Craft. [video](https://www.youtube.com/watch?v=K42kW42ukgw)
 * [Cheshire Cat AI a Production Ready AI Assistant Framework](https://github.com/nickprock/tech-talks/blob/main/slides/Cheshire%20Cat%20AI%20-%20Pi%20School.pptx.pdf). 24-01-2024. Talk per Pi School. [video](https://www.youtube.com/watch?v=OTB74ZH4eKU)
