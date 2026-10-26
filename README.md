@@ -2,6 +2,7 @@
 
 Repo che contiene le slides di molti talk, pitch e seminari che ho tenuto negli ultimi anni.
 
+* [Da una chiamata API a un team di agenti](https://github.com/nickprock/tech-talks/blob/main/slides/presentazione-sdk-multiagente.pptx.pdf). 28/102026. Talk per [Cosenza Claude Code Meetup](https://luma.com/claude-of2w)
 * [Encoding e DB Vettoriali - Intervista Pythonista](https://open.spotify.com/episode/7f95DH2d0uKlbHINAC7Ajw?si=cuyrR74GQ5ixIQyGRrub1Q). 16/05/2025.
 * [Don't get Lost in Vector Space](https://github.com/nickprock/tech-talks/blob/main/slides/pycon24_DGLIVS.pdf). 25/05/2024. Talk a [PyCon Italia](https://pycon.it/en) 2024. [video](https://www.youtube.com/watch?v=q8HSbhSqVrQ)
 * [Students meet the Cheshire Cat](https://github.com/nickprock/tech-talks/blob/main/slides/Cheshire%20Cat%20AI%20-%20UniCZ.pdf). 09-05-2024. Università Magna Grecia Catanzaro.
